@@ -1,6 +1,6 @@
 {
-    "orgName": "wade.wegner Example",
-    "edition": "Developer",
+    "orgName": "Blue Wave CI Sample",
+    "edition": "Enterprise",
     "settings": {
         "lightningExperienceSettings": {
             "enableS1DesktopEnabled": true
